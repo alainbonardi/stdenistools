@@ -1,0 +1,30 @@
+Paramètres de contrôle StDenisTools_v_0_5
+Tous les paramètres ne sont pas accessibles par l'interface
+
+Bloc1 - Delay1
+d1 = durée delay 1 (en msec, 0 à 21000)
+fd1 = réinjection delay 1 (0 à 0.999)
+v1 = volume delay 1 (en dB, -127 à 18)
+sp1 = vitesse rotation son du delay 1 (en tours/sec, -5 à 5)
+tog1 = rotation son du delay 1 reverse (-1) / off (0) / on (1)
+
+Bloc2 - Réverbération infinie
+revDur = durée de la réverbération infinie (0 à 127, 127 = infinie)
+revGain = volume de la réverbération infinie (0 à 127)
+
+Bloc3 - Delay3
+d3 = durée delay 3 (en msec, 0 à 21000)
+fd3 = réinjection delay 3 (0 à 0.999)
+v3 = volume delay 3 (en dB, -127 à 18)
+sp3 = vitesse rotation son du delay 3 (en tours/sec, -5 à 5)
+tog3 = rotation son du delay 3 reverse (-1) / off (0) / on (1)
+
+Bloc4 - Pitchshifter4
+tra4 = transposition pitchshifter4 (en midicents, -2400 à 2400)
+fd4 = réinjection pitchshifter4 (0 à 0.999)
+v4 = volume pitchshifter4 (en dB, -127 à 18)
+sp4 = vitesse rotation son du pitchshifter4 (en tours/sec, -5 à 5)
+tog4 = rotation son du pitchshifter4 reverse (-1) / off (0) / on (1)
+
+Paramètres d'ensemble
+gain = volume sonore d'ensemble (en dB, -127 à 18)
